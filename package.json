@@ -1,0 +1,8 @@
+{
+  "name": "brand-machina",
+  "version": "2.0.0",
+  "description": "AI Brand Identity Builder",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  }
+}
