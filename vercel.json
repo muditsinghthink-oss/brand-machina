@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/api/llm", "destination": "/api/llm" },
+    { "source": "/api/imagegen", "destination": "/api/imagegen" }
+  ],
+  "buildCommand": "",
+  "outputDirectory": "public"
+}
